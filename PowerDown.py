@@ -3,7 +3,7 @@ from discord.ext import commands
 import paramiko
 import time
 
-bot = commands.Bot(command_prefix = "$", description = "PowerDown made by Sword")
+bot = commands.Bot(command_prefix = "$", description = "PowerDown made by TownHall")
 
 l4methods = ['TCP', 'UDP', 'STD']   
 l7methods = ['HTTP', 'CFB', 'OVH', 'BYPASS'] 
